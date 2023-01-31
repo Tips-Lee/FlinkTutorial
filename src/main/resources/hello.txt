@@ -1,0 +1,10 @@
+Hello java
+Hello scala
+Hello spark
+Hello flink
+what is your name
+how are you
+good morning
+are you ok
+fine thank you
+I am spark
